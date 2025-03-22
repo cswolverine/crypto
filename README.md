@@ -7,6 +7,7 @@ This is a crypto trading bot that fetches live price data and simulates trades u
 1. Clone the Repository
 
 git clone https://github.com/cswolverine/crypto.git
+
 cd crypto
 
 2. Install Dependencies
