@@ -1,4 +1,4 @@
-# Crypto Trading Bot
+# Crypto Trading App
 
 # Overview
 
