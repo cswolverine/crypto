@@ -6,8 +6,8 @@ This is a crypto trading bot that fetches live price data and simulates trades u
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/crypto-trading-bot.git
-cd crypto-trading-bot
+git clone https://github.com/cswolverine/crypto.git
+cd crypto
 
 2. Install Dependencies
 
@@ -34,8 +34,3 @@ Logs trades to logs/trades.log.
 View executed trades:
 
 cat logs/trades.log
-
-# Author
-
-Your Name
-GitHub: yourusername
